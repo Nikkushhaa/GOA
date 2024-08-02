@@ -1,0 +1,30 @@
+დავალება გქვონდა sololearn ში
+
+PRACTICE EXERCISE
+The given code is expected to display the results of a dancing competition on the screen #but something is wrong with the instructions 
+
+Task 
+Fix the bugs to show the following result on screen 
+
+Result : Anna
+          96
+
+
+
+Wrong :
+
+name = 123Anna"
+score = 96'
+
+print (e)
+print (s)
+
+-------------------------------------
+
+Correct :
+
+name = "Anna"
+score = 96
+
+print (name)
+print (score)

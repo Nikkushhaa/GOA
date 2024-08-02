@@ -1,0 +1,22 @@
+PRACTICE EXERCIS
+The given code is part of a flight tacker aplication
+the team working on this project has added explanations but 
+the computer returns an error.
+
+Task
+
+Use comments to add the explanations in the way that doesnt result errors
+
+
+#Storing the flight number   (აქ დავამატეთ # რომ გამოსულიყო კომენტარი)
+Flight_n = "BA0117 "
+
+#Storing the flight information  (აქ დავამატეთ # რომ გამოსულიყო კომენტარი)
+destination = "New York"
+distance = 1500
+
+print(Flight_n)
+print(destination)
+print(distance)
+
+
